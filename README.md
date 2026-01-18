@@ -20,10 +20,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buketurk&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
